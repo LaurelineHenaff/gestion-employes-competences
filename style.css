@@ -1,0 +1,22 @@
+td{
+  padding: 20px;
+}
+
+input{
+  margin-bottom: 15px;
+  vertical-align: middle;;
+}
+
+table{
+  text-align: center;
+  vertical-align: middle;
+}
+
+a{
+  text-decoration: none;
+  font-size: 15px;
+}
+
+th{
+  font-weight: normal;
+}

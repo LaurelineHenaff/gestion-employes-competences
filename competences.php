@@ -2,18 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <style>
-          body, table, th, td{
-            text-align: center;
-          }
-
-          table{
-            display: flex;
-            justify-content: center;
-            padding-top: 1.5rem;
-          }
-        </style>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <title>Démo BDD - Compétences</title>
     </head>
     <body>

@@ -2,19 +2,10 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <style>
-          body{
-            text-align: center;
-          }
-
-          #principale{
-            padding-top: 0.5rem;
-          }
-        </style>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <title>Démo BDD - Accueil</title>
     </head>
-    <p style="font-size:20px; padding-top: 1.5rem;">Menu</p>
+    <p>Menu</p>
     <body>
       <div id="principale">
         <a href="employes.php">Employés</a>

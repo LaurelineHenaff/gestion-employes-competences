@@ -3,23 +3,6 @@
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <style>
-          body, table, th, td{
-            text-align: center;
-          }
-
-          table{
-            display: flex;
-            justify-content: center;
-            margin-top: 1.5rem;
-            padding: 1rem;
-          }
-
-          th{
-            padding: 1rem;
-          }
-          
-        </style>
         <title>Démo BDD - Employé</title>
     </head>
     <body>
@@ -51,6 +34,6 @@
           }
         }
       ?>
-      <a href="employes.php" style="text-decoration:none;"><br> Employés</a>
+      <a href="employes.php"><br> Employés</a>
     </body>
 </html>

@@ -2,22 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <style>
-            body, table, th, td{
-              text-align: center;
-            }
-
-            table{
-              display: flex;
-              justify-content: center;
-              padding-top: 1.5rem;
-            }
-
-            th{
-              padding: 1rem;
-            }
-        </style>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <title>Démo BDD - Employés</title>
     </head>
     <body>
@@ -43,5 +28,5 @@
         // Déconnexion
         disconnect($connexion);
       ?>
-      <a href="index.php" style="text-decoration:none;"><br> Accueil</a>
+      <a href="index.php"><br> Accueil</a>
     </body>
